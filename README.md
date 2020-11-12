@@ -5,6 +5,6 @@ Link to YouTube Video: https://youtu.be/89-XK1AUyGo
 
 # Screenshots
 
-Splashscreen
+*Splashscreen
 ![alt text](https://raw.githubusercontent.com/clarksoc/EC-19/main/1.%20Splashscreen.JPG)
 
