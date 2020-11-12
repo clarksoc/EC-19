@@ -5,6 +5,8 @@ Link to Figma: https://www.figma.com/file/qq0p2ovFrRrkeeH95pevK7/Assignment-2?no
 
 Link to YouTube Video: https://youtu.be/89-XK1AUyGo
 
+The Essential COVID-19 Appliction, or EC-19, is an app designed to help people survive through the current pandemic. It starts with the user signing themselves or a loved one up for the app. There is no way to know what might happen during these trying times, so it's always recommended to add an emergency contact for yourself! The EC-19 app lets you chat with one of our volunteers if you have any questions or concerns about your current situation. There is also a live map that allows you to track the current cases in your area and inform you if you are in a high risk zone. The newest functionality added to the EC-19 app is the ability to use the bluetooth on your phone and notify you if you come into close proximity of a confirmed COVID person, this allows you to know if you are potentially at risk and to seek a medical professional ASAP!
+
 # Screenshots
 * Splashscreen
 
