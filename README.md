@@ -103,3 +103,9 @@ If the user requires assistance, they can either contact their emergency contact
 
 Informs the user that their request has gone through and help is enroute. 
 
+# Top Five Functionalities
+1. A function that cures the COVID-19 virus
+2. Video tutorials on how to stay safe or properly prepare for lockdowns
+3. An API to gorcery delivery services so that the user can order food to be delivered to their homes. 
+4. An active list of restaurants in the users area that offer delivery/take-out (not through a delivery service like SkipTheDishes) 
+5. Smart watch connectivity to monitor the users health and alert them if symptoms are detected.  
